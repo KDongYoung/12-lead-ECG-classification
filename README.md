@@ -1,7 +1,7 @@
 # 12-lead-ECG-classification
-Applied Neural Network course
+Proceeded project for 'Applications and practice in neural networks' course
 
-project 2 code
+Project 2 code
 
 Topic: Arrhythmia classification based on 12-lead electrocardiogram
 
